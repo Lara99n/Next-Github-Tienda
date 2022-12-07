@@ -1,4 +1,4 @@
-<h1 style="text-align: center'> Github Store </h1>
+<h1 style={text-align: center}> Github Store </h1>
 
 
 <img  src="github1.png" alt="github"/>
